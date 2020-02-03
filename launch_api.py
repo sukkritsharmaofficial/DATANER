@@ -11,7 +11,7 @@ ap.add_argument("-o", "--output", required=True,
                 help="path to output directory of images")
 args = vars(ap.parse_args())
 
-API_KEY = "83c857b342ca4a39814ce9dbed2f6f53"
+API_KEY = "ENTER YOUR API KEY HERE"
 MAX_RESULTS = 50
 GROUP_SIZE = 5
 
